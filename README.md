@@ -11,16 +11,17 @@ password    : adminitu
 ```
 
 # Login dokter
-password adalah username dari dokter
+Password adalah username dari dokter
 ```
 username    : Galuh
 password    : Galuh
 ```
 
 # Login pasien
-salah satu akun pasien yang sudah melakukan registrasi
+Salah satu akun pasien yang sudah melakukan registrasi
 ```
 username    : Alde
 password    : aldean
 ```
-
+# Instalasi
+## Import database poli_bk
