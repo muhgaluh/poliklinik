@@ -24,4 +24,6 @@ username    : Alde
 password    : aldean
 ```
 # Instalasi
-## Import database poli_bk
+```
+Import database poli_bk
+```
