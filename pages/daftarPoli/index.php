@@ -84,7 +84,6 @@
                         </thead>
                         <tbody>
 
-                            <!-- TAMPILKAN DATA OBAT DI SINI -->
                             <?php
                             require 'config/koneksi.php';
                             $no = 1;
